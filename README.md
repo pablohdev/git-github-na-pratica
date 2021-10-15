@@ -6,5 +6,3 @@
 
 
 master - Principal
-
-other-new
